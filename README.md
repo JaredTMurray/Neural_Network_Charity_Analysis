@@ -6,7 +6,7 @@ Fot this assignment, I will create a binary classifier that is capable of predic
 
 - Deliverable 1: Preprocessing Data for a Neural Network Model (see file [AlphabetSoupCharity](https://github.com/JaredTMurray/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb))
 - Deliverable 2: Compile, Train, and Evaluate the Model (see file [AlphabetSoupCharity](https://github.com/JaredTMurray/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb))
-- Deliverable 3: Optimize the Model (see file [AlphabetSoupCharity](https://github.com/JaredTMurray/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb))
+- Deliverable 3: Optimize the Model (see file [AlphabetSoupCharity_Optimization](https://github.com/JaredTMurray/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization.ipynb))
 
 
 ## Results
