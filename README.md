@@ -10,10 +10,18 @@ Fot this assignment, I will create a binary classifier that is capable of predic
 
 
 ## Results
-This new assignment consists of three technical analysis deliverables and a written report. You will submit the following:
-
+---
 - Deliverable 1: Preprocessing Data for a Neural Network Model
+- To Preprocess the Data, I imported csv file charity_data. I then, used "EIN" and "NAME" to drop non-beneficial columns. To Determine the unique values of each column, I generated application_cat as a categorical variable. To visualize the dataset, I used the column APPLICATION_TYPE to plot the data for the graph based on density. See graph below
+- To Create a OneHotEncoder instance, I fitted and transformed the OneHotEncoder in the variable encode_df, which I then placed into a dataframe of said name. Afterwards, I merged one-hot encoded features and dropped the originals. See image below
+
 - Deliverable 2: Compile, Train, and Evaluate the Model
+- To compile the model, I first defined, deep neural net, by using the number of input features and hidden nodes for each layer. See image below. 
+- The model was compiled and trained to fit 100 epochs. 
+- The evaluation of the model using the test data resulted in the following
+- 268/268 - 0s - loss: 0.0489 - accuracy: 0.9900 - 396ms/epoch - 1ms/step
+Loss: 0.04886231571435928, Accuracy: 0.989970862865448
+
 - Deliverable 3: Optimize the Model
 ## Summary
 Deliverable 4: A Written Report on the Neural Network Model (README.md)
