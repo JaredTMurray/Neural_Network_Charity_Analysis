@@ -1,11 +1,14 @@
 # Neural_Network_Charity_Analysis
 Module20 Neural Networks
 ## Overview
+---
 This new assignment consists of three technical analysis deliverables and a written report. You will submit the following:
 
 - Deliverable 1: Preprocessing Data for a Neural Network Model
 - Deliverable 2: Compile, Train, and Evaluate the Model
 - Deliverable 3: Optimize the Model
+I wil create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. I will use a CSV that contains more than 34,000 organizations that have received funding from Alphabet Soup business over the years.
+
 ## Results
 This new assignment consists of three technical analysis deliverables and a written report. You will submit the following:
 
